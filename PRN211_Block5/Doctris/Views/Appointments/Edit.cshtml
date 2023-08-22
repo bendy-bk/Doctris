@@ -1,0 +1,170 @@
+﻿@model Doctris.Models.Appointment
+
+@{
+    ViewData["Title"] = "Edit";
+    Layout = "_Layout";
+}
+
+
+<div class="layout-specing">
+    <div class="d-md-flex justify-content-between">
+        <div>
+            <h5 class="mb-0">Edit Appointment</h5>
+        </div>
+
+        <nav aria-label="breadcrumb" class="d-inline-block mt-4 mt-sm-0">
+            <ul class="breadcrumb bg-transparent rounded mb-0 p-0">
+                <li class="breadcrumb-item"><a href="#">Appointment List</a></li>
+                <li class="breadcrumb-item active" aria-current="page">Edit Appointment </li>
+            </ul>
+        </nav>
+    </div>
+    <div class="modal-body p-3 pt-4">
+        <form class="mt-4" asp-asp-controller="Appointments" asp-action="Edit" method="post">
+            <div class="row">
+                <div class="col-md-6" style="display: none">
+                    <div class="mb-3">
+                        <label class="form-label" style="font-weight: bold;">Appointment ID</label>
+                        <input type="hidden" asp-for="AppointmentId" class="form-control" readonly="">
+                    </div>
+                </div>
+                <div class="col-md-6">
+                    <div class="mb-3">
+                        <label class="form-label" style="font-weight: bold;">Name <span class="text-danger">*</span></label>
+                        <input asp-for="Name" type="text" class="form-control" required="">
+                    </div>
+                </div>
+                <div class="col-md-6">
+                    <div class="mb-3">
+                        <label class="form-label" style="font-weight: bold;">Email<span class="text-danger">*</span></label>
+                        <input asp-for="Email" type="email" class="form-control" list="list"    required="">
+
+                    </div>
+                </div>
+
+                <div class="col-md-6">
+                    <div class="mb-3">
+                        <label class="form-label" style="font-weight: bold;">Age<span class="text-danger">*</span></label>
+                        <input asp-for="Age" type="number" class="form-control" list="list"    required="">
+
+                    </div>
+                </div>
+
+                <div class="col-md-6">
+                    <div class="mb-3">
+                        <label class="form-label" style="font-weight: bold;">Date/time<span class="text-danger">*</span></label>
+                        <input asp-for="Date"  class="form-control" list="list"    required="">
+
+                    </div>
+                </div>
+
+                <div class="col-md-6">
+                    <div class="mb-3">
+                        <label class="form-label" style="font-weight: bold;">Department<span class="text-danger">*</span></label>
+                        <select asp-for="DepartmentId" class="form-control" asp-items="ViewBag.DepartmentId"></select>
+
+                    </div>
+                </div>
+
+                <div class="col-md-6">
+                    <div class="mb-3">
+                        <label class="form-label" style="font-weight: bold;">Doctor<span class="text-danger">*</span></label>
+                        <select asp-for="Doctor" class="form-control" asp-items="ViewBag.Doctor"></select>
+                    </div>
+                </div>
+
+                <div class="col-md-6" style="display: none">
+                    <div class="mb-3">
+                        <label class="form-label" style="font-weight: bold;">Pressing<span class="text-danger">*</span></label>
+                        <input asp-for="IsActive" class="form-control" />
+                    </div>
+                </div>
+                
+            </div><!--end row-->
+            <div class="row">
+                <div class="col-sm-12">
+                    <input type="submit" class="btn btn-primary" value="Save">
+                </div><!--end col-->
+            </div><!--end row-->
+        </form><!--end form-->
+    </div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@*<h1>Edit</h1>
+
+<h4>Appointment</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Edit">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="AppointmentId" />
+            <div class="form-group">
+                <label asp-for="Name" class="control-label"></label>
+                <input asp-for="Name" class="form-control" />
+                <span asp-validation-for="Name" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Email" class="control-label"></label>
+                <input asp-for="Email" class="form-control" />
+                <span asp-validation-for="Email" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Age" class="control-label"></label>
+                <input asp-for="Age" class="form-control" />
+                <span asp-validation-for="Age" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Gender" class="control-label"></label>
+                <input asp-for="Gender" class="form-control" />
+                <span asp-validation-for="Gender" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="DepartmentId" class="control-label"></label>
+                <select asp-for="DepartmentId" class="form-control" asp-items="ViewBag.DepartmentId"></select>
+                <span asp-validation-for="DepartmentId" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Date" class="control-label"></label>
+                <input asp-for="Date" class="form-control" />
+                <span asp-validation-for="Date" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Doctor" class="control-label"></label>
+                <select asp-for="Doctor" class="form-control" asp-items="ViewBag.Doctor"></select>
+                <span asp-validation-for="Doctor" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="IsActive" class="control-label"></label>
+                <input asp-for="IsActive" class="form-control" />
+                <span asp-validation-for="IsActive" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Save" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}*@

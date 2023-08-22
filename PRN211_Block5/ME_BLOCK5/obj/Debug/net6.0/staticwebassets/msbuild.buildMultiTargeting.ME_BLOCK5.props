@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\ME_BLOCK5.props" />
+</Project>

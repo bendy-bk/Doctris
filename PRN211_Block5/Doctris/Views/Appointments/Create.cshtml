@@ -1,0 +1,268 @@
+﻿@model Doctris.Models.Appointment
+
+@{
+    ViewData["Title"] = "Create";
+    Layout = "_Layout";
+}
+
+
+<section class="section">
+    <div class="container">
+        <div class="row justify-content-center">
+            <div class="col-lg-8">
+                <div class="card border-0 shadow rounded overflow-hidden">
+                    <ul class="nav nav-pills nav-justified flex-column flex-sm-row rounded-0 shadow overflow-hidden bg-light mb-0" id="pills-tab" role="tablist">
+                        <li class="nav-item">
+                            <a class="nav-link rounded-0 active" id="clinic-booking" data-bs-toggle="pill" href="#pills-clinic" role="tab" aria-controls="pills-clinic" aria-selected="false">
+                                <div class="text-center pt-1 pb-1">
+                                    <h4 class="title fw-normal mb-0">Clinic Appointment</h4>
+                                </div>
+                            </a><!--end nav link-->
+                        </li><!--end nav item-->
+
+                        <li class="nav-item">
+                            <a class="nav-link rounded-0" id="online-booking" data-bs-toggle="pill" href="#pills-online" role="tab" aria-controls="pills-online" aria-selected="false">
+                                <div class="text-center pt-1 pb-1">
+                                    <h4 class="title fw-normal mb-0">Online Appointment</h4>
+                                </div>
+                            </a><!--end nav link-->
+                        </li><!--end nav item-->
+                    </ul>
+
+                    <div class="tab-content p-4" id="pills-tabContent">
+                        <div class="tab-pane fade show active" id="pills-clinic" role="tabpanel" aria-labelledby="clinic-booking">
+                            <form asp-controller="Appointments" asp-action="Create">
+                                <div class="row">
+                                    <div class="col-lg-12">
+                                        <div class="mb-3">
+                                            <label class="form-label">Patient Name <span class="text-danger">*</span></label>
+                                            <input asp-for="Name" type="text" class="form-control" placeholder="Patient Name :" required>
+                                        </div>
+                                    </div><!--end col-->
+
+                                    <div class="col-md-6">
+                                        <div class="mb-3">
+                                            <label class="form-label">Your Email <span class="text-danger">*</span></label>
+                                            <input asp-for="Email" type="email" class="form-control" required>
+                                        </div>
+                                    </div><!--end col-->
+
+                                    <div class="col-md-6">
+                                        <div class="mb-3">
+                                            <label class="form-label"> Age <span class="text-danger">*</span></label>
+                                            <input asp-for="Age" type="number" class="form-control" required>
+                                        </div>
+                                    </div><!--end col-->
+
+
+                                    <div class="col-md-6">
+                                        <div class="mb-3">
+                                            <label class="form-label"> Gender <span class="text-danger">*</span></label>
+                                            <input asp-for="Gender" type="text" class="form-control" required>
+                                        </div>
+                                    </div><!--end col-->
+
+
+                                    <div class="col-md-6">
+                                        <div class="mb-3">
+                                            <label class="form-label">Departments</label>
+                                            <select asp-for="DepartmentId" class ="form-control" asp-items="ViewBag.DepartmentId"></select>
+                                        </div>
+                                    </div><!--end col-->
+
+                                    <div class="col-md-6">
+                                        <div class="mb-3">
+                                            <label class="form-label">Doctor</label>
+                                            <select asp-for="Doctor" class="form-control" asp-items="ViewBag.Doctor"></select>
+                                        </div>
+                                    </div><!--end col-->
+
+                                    <div class="col-md-6">
+                                        <div class="mb-3">
+                                            <label class="form-label"> Date /Time <span class="text-danger">*</span></label>
+                                            <input asp-for="Date" class="form-control" required>
+                                        </div>
+                                    </div><!--end col-->
+
+
+                                    <div class="col-md-6" hidden>
+                                        <div class="mb-3">
+                                            <label class="form-label"> Pressing <span class="text-danger">*</span></label>
+                                            <input asp-for="IsActive" type="text" class="form-control" value="false" >
+                                        </div>
+                                    </div><!--end col-->
+
+                                
+                                    <div class="col-lg-12">
+                                        <div class="d-grid">
+                                            <button type="submit" value="Create" class="btn btn-primary">Book An Appointment</button>
+                                        </div>
+                                    </div><!--end col-->
+                                </div><!--end row-->
+                            </form>
+                        </div>
+
+                        <div class="tab-pane fade" id="pills-online" role="tabpanel" aria-labelledby="online-booking">
+                            <form>
+                                <div class="row">
+                                    <div class="col-lg-12">
+                                        <div class="mb-3">
+                                            <label class="form-label">Patient Name <span class="text-danger">*</span></label>
+                                            <input name="name" id="name2" type="text" class="form-control" placeholder="Patient Name :">
+                                        </div>
+                                    </div><!--end col-->
+
+                                    <div class="col-md-6">
+                                        <div class="mb-3">
+                                            <label class="form-label">Departments</label>
+                                            <select class="form-control department-name select2input">
+                                                <option value="EY">Eye Care</option>
+                                                <option value="GY">Gynecologist</option>
+                                                <option value="PS">Psychotherapist</option>
+                                                <option value="OR">Orthopedic</option>
+                                                <option value="DE">Dentist</option>
+                                                <option value="GA">Gastrologist</option>
+                                                <option value="UR">Urologist</option>
+                                                <option value="NE">Neurologist</option>
+                                            </select>
+                                        </div>
+                                    </div><!--end col-->
+
+                                    <div class="col-md-6">
+                                        <div class="mb-3">
+                                            <label class="form-label">Doctor</label>
+                                            <select class="form-control doctor-name select2input">
+                                                <option value="CA">Dr. Calvin Carlo</option>
+                                                <option value="CR">Dr. Cristino Murphy</option>
+                                                <option value="AL">Dr. Alia Reddy</option>
+                                                <option value="TO">Dr. Toni Kovar</option>
+                                                <option value="JE">Dr. Jessica McFarlane</option>
+                                                <option value="EL">Dr. Elsie Sherman</option>
+                                                <option value="BE">Dr. Bertha Magers</option>
+                                                <option value="LO">Dr. Louis Batey</option>
+                                            </select>
+                                        </div>
+                                    </div><!--end col-->
+
+                                    <div class="col-md-6">
+                                        <div class="mb-3">
+                                            <label class="form-label">Your Email <span class="text-danger">*</span></label>
+                                            <input name="email" id="email2" type="email" class="form-control" placeholder="Your email :">
+                                        </div>
+                                    </div><!--end col-->
+
+                                    <div class="col-md-6">
+                                        <div class="mb-3">
+                                            <label class="form-label">Your Phone <span class="text-danger">*</span></label>
+                                            <input name="phone" id="phone2" type="tel" class="form-control" placeholder="Your Phone :">
+                                        </div>
+                                    </div><!--end col-->
+
+                                    <div class="col-md-6">
+                                        <div class="mb-3">
+                                            <label class="form-label"> Date : </label>
+                                            <input name="date" type="text" class="flatpickr flatpickr-input form-control" id="checkin-date">
+                                        </div>
+                                    </div><!--end col-->
+
+                                    <div class="col-md-6">
+                                        <div class="mb-3">
+                                            <label class="form-label" for="input-time">Time : </label>
+                                            <input name="time" type="text" class="form-control timepicker" id="input-time" placeholder="03:30 PM">
+                                        </div>
+                                    </div><!--end col-->
+
+                                    <div class="col-lg-12">
+                                        <div class="mb-3">
+                                            <label class="form-label">Comments <span class="text-danger">*</span></label>
+                                            <textarea name="comments" id="comments2" rows="4" class="form-control" placeholder="Your Message :"></textarea>
+                                        </div>
+                                    </div><!--end col-->
+
+                                    <div class="col-lg-12">
+                                        <div class="d-grid">
+                                            <button type="submit" class="btn btn-primary">Book An Appointment</button>
+                                        </div>
+                                    </div><!--end col-->
+                                </div><!--end row-->
+                            </form>
+                        </div>
+                    </div>
+                </div>
+            </div><!--end col-->
+        </div><!--end row-->
+    </div><!--end container-->
+</section><!--end section-->
+
+
+
+
+
+
+
+
+
+
+
+@*
+<h1>Create</h1>
+
+<h4>Appointment</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="Name" class="control-label"></label>
+                <input asp-for="Name" class="form-control" />
+                <span asp-validation-for="Name" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Email" class="control-label"></label>
+                <input asp-for="Email" class="form-control" />
+                <span asp-validation-for="Email" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Age" class="control-label"></label>
+                <input asp-for="Age" class="form-control" />
+                <span asp-validation-for="Age" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Gender" class="control-label"></label>
+                <input asp-for="Gender" class="form-control" />
+                <span asp-validation-for="Gender" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="DepartmentId" class="control-label"></label>
+                <select asp-for="DepartmentId" class ="form-control" asp-items="ViewBag.DepartmentId"></select>
+            </div>
+            <div class="form-group">
+                <label asp-for="Date" class="control-label"></label>
+                <input asp-for="Date" class="form-control" />
+                <span asp-validation-for="Date" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Doctor" class="control-label"></label>
+                <select asp-for="Doctor" class ="form-control" asp-items="ViewBag.Doctor"></select>
+            </div>
+            <div class="form-group">
+                <label asp-for="IsActive" class="control-label"></label>
+                <input asp-for="IsActive" class="form-control" />
+                <span asp-validation-for="IsActive" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}
+*@

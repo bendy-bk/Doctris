@@ -1,0 +1,36 @@
+﻿@model WebApplication1.Models.Setting
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>Details</h1>
+
+<div>
+    <h4>Setting</h4>
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.SettingType)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.SettingType)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.SettingName)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.SettingName)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.SettingDescription)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.SettingDescription)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model?.SettingId">Edit</a> |
+    <a asp-action="Index">Back to List</a>
+</div>

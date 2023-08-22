@@ -1,0 +1,925 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\FPT\\Chuyen Nganh Ky 5\\BLOCK 5 - PRN211\\PRN211_Block5\\Doctris\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Doctris.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Doctris.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\FPT\\Chuyen Nganh Ky 5\\BLOCK 5 - PRN211\\PRN211_Block5\\Doctris\\wwwroot\\assets\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\FPT\\Chuyen Nganh Ky 5\\BLOCK 5 - PRN211\\PRN211_Block5\\Doctris\\wwwroot\\assets\\css\\flatpickr.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\flatpickr.min.css"
+    },
+    {
+      "Id": "D:\\FPT\\Chuyen Nganh Ky 5\\BLOCK 5 - PRN211\\PRN211_Block5\\Doctris\\wwwroot\\assets\\css\\fullcalendar.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\fullcalendar.min.css"
+    },
+    {
+      "Id": "D:\\FPT\\Chuyen Nganh Ky 5\\BLOCK 5 - PRN211\\PRN211_Block5\\Doctris\\wwwroot\\assets\\css\\jquery.timepicker.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\jquery.timepicker.min.css"
+    },
+    {
+      "Id": "D:\\FPT\\Chuyen Nganh Ky 5\\BLOCK 5 - PRN211\\PRN211_Block5\\Doctris\\wwwroot\\assets\\css\\materialdesignicons.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\materialdesignicons.min.css"
+    },
+    {
+      "Id": "D:\\FPT\\Chuyen Nganh Ky 5\\BLOCK 5 - PRN211\\PRN211_Block5\\Doctris\\wwwroot\\assets\\css\\remixicon.css",
+      "PackagePath": "staticwebassets\\assets\\css\\remixicon.css"
+    },
+    {
+      "Id": "D:\\FPT\\Chuyen Nganh Ky 5\\BLOCK 5 - PRN211\\PRN211_Block5\\Doctris\\wwwroot\\assets\\css\\select2.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\select2.min.css"
+    },
+    {
+      "Id": "D:\\FPT\\Chuyen Nganh Ky 5\\BLOCK 5 - PRN211\\PRN211_Block5\\Doctris\\wwwroot\\assets\\css\\simplebar.css",
+      "PackagePath": "staticwebassets\\assets\\css\\simplebar.css"
+    },
+    {
+      "Id": "D:\\FPT\\Chuyen Nganh Ky 5\\BLOCK 5 - PRN211\\PRN211_Block5\\Doctris\\wwwroot\\assets\\css\\slick-theme.css",
+      "PackagePath": "staticwebassets\\assets\\css\\slick-theme.css"
+    },
+    {
+      "Id": "D:\\FPT\\Chuyen Nganh Ky 5\\BLOCK 5 - PRN211\\PRN211_Block5\\Doctris\\wwwroot\\assets\\css\\slick.css",
+      "PackagePath": "staticwebassets\\assets\\css\\slick.css"
+    },
+    {
+      "Id": "D:\\FPT\\Chuyen Nganh Ky 5\\BLOCK 5 - PRN211\\PRN211_Block5\\Doctris\\wwwroot\\assets\\css\\style.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\style.min.css"
+    },
+    {
+      "Id": "D:\\FPT\\Chuyen Nganh Ky 5\\BLOCK 5 - PRN211\\PRN211_Block5\\Doctris\\wwwroot\\assets\\css\\tiny-slider.css",
+      "PackagePath": "staticwebassets\\assets\\css\\tiny-slider.css"
+    },
+    {
+      "Id": "D:\\FPT\\Chuyen Nganh Ky 5\\BLOCK 5 - PRN211\\PRN211_Block5\\Doctris\\wwwroot\\assets\\fonts\\ajax-loader.gif",
+      "PackagePath": "staticwebassets\\assets\\fonts\\ajax-loader.gif"
+    },
+    {
+      "Id": "D:\\FPT\\Chuyen Nganh Ky 5\\BLOCK 5 - PRN211\\PRN211_Block5\\Doctris\\wwwroot\\assets\\fonts\\materialdesignicons-webfont﹖.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\materialdesignicons-webfont﹖.eot"
+    },
+    {
+      "Id": "D:\\FPT\\Chuyen Nganh Ky 5\\BLOCK 5 - PRN211\\PRN211_Block5\\Doctris\\wwwroot\\assets\\fonts\\materialdesignicons-webfont﹖v=5.9.55.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\materialdesignicons-webfont﹖v=5.9.55.eot"
+    },
+    {
+      "Id": "D:\\FPT\\Chuyen Nganh Ky 5\\BLOCK 5 - PRN211\\PRN211_Block5\\Doctris\\wwwroot\\assets\\fonts\\materialdesignicons-webfont﹖v=5.9.55.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\materialdesignicons-webfont﹖v=5.9.55.ttf"
+    },
+    {
+      "Id": "D:\\FPT\\Chuyen Nganh Ky 5\\BLOCK 5 - PRN211\\PRN211_Block5\\Doctris\\wwwroot\\assets\\fonts\\materialdesignicons-webfont﹖v=5.9.55.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\materialdesignicons-webfont﹖v=5.9.55.woff2"
+    },
+    {
+      "Id": "D:\\FPT\\Chuyen Nganh Ky 5\\BLOCK 5 - PRN211\\PRN211_Block5\\Doctris\\wwwroot\\assets\\fonts\\remixicon﹖t=1590207869815.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\remixicon﹖t=1590207869815.eot"
+    },
+    {
+      "Id": "D:\\FPT\\Chuyen Nganh Ky 5\\BLOCK 5 - PRN211\\PRN211_Block5\\Doctris\\wwwroot\\assets\\fonts\\remixicon﹖t=1590207869815.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\remixicon﹖t=1590207869815.svg"
+    },
+    {
+      "Id": "D:\\FPT\\Chuyen Nganh Ky 5\\BLOCK 5 - PRN211\\PRN211_Block5\\Doctris\\wwwroot\\assets\\fonts\\remixicon﹖t=1590207869815.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\remixicon﹖t=1590207869815.ttf"
+    },
+    {
+      "Id": "D:\\FPT\\Chuyen Nganh Ky 5\\BLOCK 5 - PRN211\\PRN211_Block5\\Doctris\\wwwroot\\assets\\fonts\\remixicon﹖t=1590207869815.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\remixicon﹖t=1590207869815.woff"
+    },
+    {
+      "Id": "D:\\FPT\\Chuyen Nganh Ky 5\\BLOCK 5 - PRN211\\PRN211_Block5\\Doctris\\wwwroot\\assets\\fonts\\remixicon﹖t=1590207869815.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\remixicon﹖t=1590207869815.woff2"
+    },
+    {
+      "Id": "D:\\FPT\\Chuyen Nganh Ky 5\\BLOCK 5 - PRN211\\PRN211_Block5\\Doctris\\wwwroot\\assets\\fonts\\slick.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\slick.ttf"
+    },
+    {
+      "Id": "D:\\FPT\\Chuyen Nganh Ky 5\\BLOCK 5 - PRN211\\PRN211_Block5\\Doctris\\wwwroot\\assets\\fonts\\slick.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\slick.woff"
+    },
+    {
+      "Id": "D:\\FPT\\Chuyen Nganh Ky 5\\BLOCK 5 - PRN211\\PRN211_Block5\\Doctris\\wwwroot\\assets\\images\\about\\about-2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\about\\about-2.png"
+    },
+    {
+      "Id": "D:\\FPT\\Chuyen Nganh Ky 5\\BLOCK 5 - PRN211\\PRN211_Block5\\Doctris\\wwwroot\\assets\\images\\bg\\01.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\bg\\01.jpg"
+    },
+    {
+      "Id": "D:\\FPT\\Chuyen Nganh Ky 5\\BLOCK 5 - PRN211\\PRN211_Block5\\Doctris\\wwwroot\\assets\\images\\bg\\02.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\bg\\02.jpg"
+    },
+    {
+      "Id": "D:\\FPT\\Chuyen Nganh Ky 5\\BLOCK 5 - PRN211\\PRN211_Block5\\Doctris\\wwwroot\\assets\\images\\bg\\03.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\bg\\03.jpg"
+    },
+    {
+      "Id": "D:\\FPT\\Chuyen Nganh Ky 5\\BLOCK 5 - PRN211\\PRN211_Block5\\Doctris\\wwwroot\\assets\\images\\bg\\05.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\bg\\05.jpg"
+    },
+    {
+      "Id": "D:\\FPT\\Chuyen Nganh Ky 5\\BLOCK 5 - PRN211\\PRN211_Block5\\Doctris\\wwwroot\\assets\\images\\bg\\about.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\bg\\about.jpg"
+    },
+    {
+      "Id": "D:\\FPT\\Chuyen Nganh Ky 5\\BLOCK 5 - PRN211\\PRN211_Block5\\Doctris\\wwwroot\\assets\\images\\bg\\bg-chat.png",
+      "PackagePath": "staticwebassets\\assets\\images\\bg\\bg-chat.png"
+    },
+    {
+      "Id": "D:\\FPT\\Chuyen Nganh Ky 5\\BLOCK 5 - PRN211\\PRN211_Block5\\Doctris\\wwwroot\\assets\\images\\bg\\bg-lines-one.png",
+      "PackagePath": "staticwebassets\\assets\\images\\bg\\bg-lines-one.png"
+    },
+    {
+      "Id": "D:\\FPT\\Chuyen Nganh Ky 5\\BLOCK 5 - PRN211\\PRN211_Block5\\Doctris\\wwwroot\\assets\\images\\bg\\bg-profile.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\bg\\bg-profile.jpg"
+    },
+    {
+      "Id": "D:\\FPT\\Chuyen Nganh Ky 5\\BLOCK 5 - PRN211\\PRN211_Block5\\Doctris\\wwwroot\\assets\\images\\bg\\department.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\bg\\department.jpg"
+    },
+    {
+      "Id": "D:\\FPT\\Chuyen Nganh Ky 5\\BLOCK 5 - PRN211\\PRN211_Block5\\Doctris\\wwwroot\\assets\\images\\bg\\pharm01.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\bg\\pharm01.jpg"
+    },
+    {
+      "Id": "D:\\FPT\\Chuyen Nganh Ky 5\\BLOCK 5 - PRN211\\PRN211_Block5\\Doctris\\wwwroot\\assets\\images\\bg\\pharm02.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\bg\\pharm02.jpg"
+    },
+    {
+      "Id": "D:\\FPT\\Chuyen Nganh Ky 5\\BLOCK 5 - PRN211\\PRN211_Block5\\Doctris\\wwwroot\\assets\\images\\bg\\pharm03.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\bg\\pharm03.jpg"
+    },
+    {
+      "Id": "D:\\FPT\\Chuyen Nganh Ky 5\\BLOCK 5 - PRN211\\PRN211_Block5\\Doctris\\wwwroot\\assets\\images\\bg\\slider01.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\bg\\slider01.jpg"
+    },
+    {
+      "Id": "D:\\FPT\\Chuyen Nganh Ky 5\\BLOCK 5 - PRN211\\PRN211_Block5\\Doctris\\wwwroot\\assets\\images\\bg\\slider02.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\bg\\slider02.jpg"
+    },
+    {
+      "Id": "D:\\FPT\\Chuyen Nganh Ky 5\\BLOCK 5 - PRN211\\PRN211_Block5\\Doctris\\wwwroot\\assets\\images\\bg\\slider03.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\bg\\slider03.jpg"
+    },
+    {
+      "Id": "D:\\FPT\\Chuyen Nganh Ky 5\\BLOCK 5 - PRN211\\PRN211_Block5\\Doctris\\wwwroot\\assets\\images\\blog\\01.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\01.jpg"
+    },
+    {
+      "Id": "D:\\FPT\\Chuyen Nganh Ky 5\\BLOCK 5 - PRN211\\PRN211_Block5\\Doctris\\wwwroot\\assets\\images\\blog\\02.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\02.jpg"
+    },
+    {
+      "Id": "D:\\FPT\\Chuyen Nganh Ky 5\\BLOCK 5 - PRN211\\PRN211_Block5\\Doctris\\wwwroot\\assets\\images\\blog\\03.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\03.jpg"
+    },
+    {
+      "Id": "D:\\FPT\\Chuyen Nganh Ky 5\\BLOCK 5 - PRN211\\PRN211_Block5\\Doctris\\wwwroot\\assets\\images\\blog\\04.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\04.jpg"
+    },
+    {
+      "Id": "D:\\FPT\\Chuyen Nganh Ky 5\\BLOCK 5 - PRN211\\PRN211_Block5\\Doctris\\wwwroot\\assets\\images\\blog\\05.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\05.jpg"
+    },
+    {
+      "Id": "D:\\FPT\\Chuyen Nganh Ky 5\\BLOCK 5 - PRN211\\PRN211_Block5\\Doctris\\wwwroot\\assets\\images\\blog\\06.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\06.jpg"
+    },
+    {
+      "Id": "D:\\FPT\\Chuyen Nganh Ky 5\\BLOCK 5 - PRN211\\PRN211_Block5\\Doctris\\wwwroot\\assets\\images\\blog\\07.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\07.jpg"
+    },
+    {
+      "Id": "D:\\FPT\\Chuyen Nganh Ky 5\\BLOCK 5 - PRN211\\PRN211_Block5\\Doctris\\wwwroot\\assets\\images\\blog\\08.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\08.jpg"
+    },
+    {
+      "Id": "D:\\FPT\\Chuyen Nganh Ky 5\\BLOCK 5 - PRN211\\PRN211_Block5\\Doctris\\wwwroot\\assets\\images\\blog\\09.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\09.jpg"
+    },
+    {
+      "Id": "D:\\FPT\\Chuyen Nganh Ky 5\\BLOCK 5 - PRN211\\PRN211_Block5\\Doctris\\wwwroot\\assets\\images\\blog\\single.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\single.jpg"
+    },
+    {
+      "Id": "D:\\FPT\\Chuyen Nganh Ky 5\\BLOCK 5 - PRN211\\PRN211_Block5\\Doctris\\wwwroot\\assets\\images\\client\\01.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\client\\01.jpg"
+    },
+    {
+      "Id": "D:\\FPT\\Chuyen Nganh Ky 5\\BLOCK 5 - PRN211\\PRN211_Block5\\Doctris\\wwwroot\\assets\\images\\client\\02.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\client\\02.jpg"
+    },
+    {
+      "Id": "D:\\FPT\\Chuyen Nganh Ky 5\\BLOCK 5 - PRN211\\PRN211_Block5\\Doctris\\wwwroot\\assets\\images\\client\\03.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\client\\03.jpg"
+    },
+    {
+      "Id": "D:\\FPT\\Chuyen Nganh Ky 5\\BLOCK 5 - PRN211\\PRN211_Block5\\Doctris\\wwwroot\\assets\\images\\client\\04.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\client\\04.jpg"
+    },
+    {
+      "Id": "D:\\FPT\\Chuyen Nganh Ky 5\\BLOCK 5 - PRN211\\PRN211_Block5\\Doctris\\wwwroot\\assets\\images\\client\\05.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\client\\05.jpg"
+    },
+    {
+      "Id": "D:\\FPT\\Chuyen Nganh Ky 5\\BLOCK 5 - PRN211\\PRN211_Block5\\Doctris\\wwwroot\\assets\\images\\client\\06.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\client\\06.jpg"
+    },
+    {
+      "Id": "D:\\FPT\\Chuyen Nganh Ky 5\\BLOCK 5 - PRN211\\PRN211_Block5\\Doctris\\wwwroot\\assets\\images\\client\\07.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\client\\07.jpg"
+    },
+    {
+      "Id": "D:\\FPT\\Chuyen Nganh Ky 5\\BLOCK 5 - PRN211\\PRN211_Block5\\Doctris\\wwwroot\\assets\\images\\client\\08.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\client\\08.jpg"
+    },
+    {
+      "Id": "D:\\FPT\\Chuyen Nganh Ky 5\\BLOCK 5 - PRN211\\PRN211_Block5\\Doctris\\wwwroot\\assets\\images\\client\\09.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\client\\09.jpg"
+    },
+    {
+      "Id": "D:\\FPT\\Chuyen Nganh Ky 5\\BLOCK 5 - PRN211\\PRN211_Block5\\Doctris\\wwwroot\\assets\\images\\client\\10.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\client\\10.jpg"
+    },
+    {
+      "Id": "D:\\FPT\\Chuyen Nganh Ky 5\\BLOCK 5 - PRN211\\PRN211_Block5\\Doctris\\wwwroot\\assets\\images\\client\\Codepen.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\client\\Codepen.svg"
+    },
+    {
+      "Id": "D:\\FPT\\Chuyen Nganh Ky 5\\BLOCK 5 - PRN211\\PRN211_Block5\\Doctris\\wwwroot\\assets\\images\\client\\amazon.png",
+      "PackagePath": "staticwebassets\\assets\\images\\client\\amazon.png"
+    },
+    {
+      "Id": "D:\\FPT\\Chuyen Nganh Ky 5\\BLOCK 5 - PRN211\\PRN211_Block5\\Doctris\\wwwroot\\assets\\images\\client\\dribbble.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\client\\dribbble.svg"
+    },
+    {
+      "Id": "D:\\FPT\\Chuyen Nganh Ky 5\\BLOCK 5 - PRN211\\PRN211_Block5\\Doctris\\wwwroot\\assets\\images\\client\\google.png",
+      "PackagePath": "staticwebassets\\assets\\images\\client\\google.png"
+    },
+    {
+      "Id": "D:\\FPT\\Chuyen Nganh Ky 5\\BLOCK 5 - PRN211\\PRN211_Block5\\Doctris\\wwwroot\\assets\\images\\client\\lenovo.png",
+      "PackagePath": "staticwebassets\\assets\\images\\client\\lenovo.png"
+    },
+    {
+      "Id": "D:\\FPT\\Chuyen Nganh Ky 5\\BLOCK 5 - PRN211\\PRN211_Block5\\Doctris\\wwwroot\\assets\\images\\client\\paypal.png",
+      "PackagePath": "staticwebassets\\assets\\images\\client\\paypal.png"
+    },
+    {
+      "Id": "D:\\FPT\\Chuyen Nganh Ky 5\\BLOCK 5 - PRN211\\PRN211_Block5\\Doctris\\wwwroot\\assets\\images\\client\\shopify.png",
+      "PackagePath": "staticwebassets\\assets\\images\\client\\shopify.png"
+    },
+    {
+      "Id": "D:\\FPT\\Chuyen Nganh Ky 5\\BLOCK 5 - PRN211\\PRN211_Block5\\Doctris\\wwwroot\\assets\\images\\client\\spotify.png",
+      "PackagePath": "staticwebassets\\assets\\images\\client\\spotify.png"
+    },
+    {
+      "Id": "D:\\FPT\\Chuyen Nganh Ky 5\\BLOCK 5 - PRN211\\PRN211_Block5\\Doctris\\wwwroot\\assets\\images\\cta.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\cta.jpg"
+    },
+    {
+      "Id": "D:\\FPT\\Chuyen Nganh Ky 5\\BLOCK 5 - PRN211\\PRN211_Block5\\Doctris\\wwwroot\\assets\\images\\doctors\\01.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\doctors\\01.jpg"
+    },
+    {
+      "Id": "D:\\FPT\\Chuyen Nganh Ky 5\\BLOCK 5 - PRN211\\PRN211_Block5\\Doctris\\wwwroot\\assets\\images\\doctors\\02.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\doctors\\02.jpg"
+    },
+    {
+      "Id": "D:\\FPT\\Chuyen Nganh Ky 5\\BLOCK 5 - PRN211\\PRN211_Block5\\Doctris\\wwwroot\\assets\\images\\doctors\\03.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\doctors\\03.jpg"
+    },
+    {
+      "Id": "D:\\FPT\\Chuyen Nganh Ky 5\\BLOCK 5 - PRN211\\PRN211_Block5\\Doctris\\wwwroot\\assets\\images\\doctors\\04.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\doctors\\04.jpg"
+    },
+    {
+      "Id": "D:\\FPT\\Chuyen Nganh Ky 5\\BLOCK 5 - PRN211\\PRN211_Block5\\Doctris\\wwwroot\\assets\\images\\doctors\\05.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\doctors\\05.jpg"
+    },
+    {
+      "Id": "D:\\FPT\\Chuyen Nganh Ky 5\\BLOCK 5 - PRN211\\PRN211_Block5\\Doctris\\wwwroot\\assets\\images\\doctors\\06.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\doctors\\06.jpg"
+    },
+    {
+      "Id": "D:\\FPT\\Chuyen Nganh Ky 5\\BLOCK 5 - PRN211\\PRN211_Block5\\Doctris\\wwwroot\\assets\\images\\doctors\\07.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\doctors\\07.jpg"
+    },
+    {
+      "Id": "D:\\FPT\\Chuyen Nganh Ky 5\\BLOCK 5 - PRN211\\PRN211_Block5\\Doctris\\wwwroot\\assets\\images\\doctors\\08.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\doctors\\08.jpg"
+    },
+    {
+      "Id": "D:\\FPT\\Chuyen Nganh Ky 5\\BLOCK 5 - PRN211\\PRN211_Block5\\Doctris\\wwwroot\\assets\\images\\doctors\\09.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\doctors\\09.jpg"
+    },
+    {
+      "Id": "D:\\FPT\\Chuyen Nganh Ky 5\\BLOCK 5 - PRN211\\PRN211_Block5\\Doctris\\wwwroot\\assets\\images\\doctors\\10.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\doctors\\10.jpg"
+    },
+    {
+      "Id": "D:\\FPT\\Chuyen Nganh Ky 5\\BLOCK 5 - PRN211\\PRN211_Block5\\Doctris\\wwwroot\\assets\\images\\doctors\\dr-profile.png",
+      "PackagePath": "staticwebassets\\assets\\images\\doctors\\dr-profile.png"
+    },
+    {
+      "Id": "D:\\FPT\\Chuyen Nganh Ky 5\\BLOCK 5 - PRN211\\PRN211_Block5\\Doctris\\wwwroot\\assets\\images\\doctors\\profile-bg.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\doctors\\profile-bg.jpg"
+    },
+    {
+      "Id": "D:\\FPT\\Chuyen Nganh Ky 5\\BLOCK 5 - PRN211\\PRN211_Block5\\Doctris\\wwwroot\\assets\\images\\favicon.ico.png",
+      "PackagePath": "staticwebassets\\assets\\images\\favicon.ico.png"
+    },
+    {
+      "Id": "D:\\FPT\\Chuyen Nganh Ky 5\\BLOCK 5 - PRN211\\PRN211_Block5\\Doctris\\wwwroot\\assets\\images\\hero.png",
+      "PackagePath": "staticwebassets\\assets\\images\\hero.png"
+    },
+    {
+      "Id": "D:\\FPT\\Chuyen Nganh Ky 5\\BLOCK 5 - PRN211\\PRN211_Block5\\Doctris\\wwwroot\\assets\\images\\language\\american.png",
+      "PackagePath": "staticwebassets\\assets\\images\\language\\american.png"
+    },
+    {
+      "Id": "D:\\FPT\\Chuyen Nganh Ky 5\\BLOCK 5 - PRN211\\PRN211_Block5\\Doctris\\wwwroot\\assets\\images\\language\\chinese.png",
+      "PackagePath": "staticwebassets\\assets\\images\\language\\chinese.png"
+    },
+    {
+      "Id": "D:\\FPT\\Chuyen Nganh Ky 5\\BLOCK 5 - PRN211\\PRN211_Block5\\Doctris\\wwwroot\\assets\\images\\language\\european.png",
+      "PackagePath": "staticwebassets\\assets\\images\\language\\european.png"
+    },
+    {
+      "Id": "D:\\FPT\\Chuyen Nganh Ky 5\\BLOCK 5 - PRN211\\PRN211_Block5\\Doctris\\wwwroot\\assets\\images\\language\\indian.png",
+      "PackagePath": "staticwebassets\\assets\\images\\language\\indian.png"
+    },
+    {
+      "Id": "D:\\FPT\\Chuyen Nganh Ky 5\\BLOCK 5 - PRN211\\PRN211_Block5\\Doctris\\wwwroot\\assets\\images\\language\\japanese.png",
+      "PackagePath": "staticwebassets\\assets\\images\\language\\japanese.png"
+    },
+    {
+      "Id": "D:\\FPT\\Chuyen Nganh Ky 5\\BLOCK 5 - PRN211\\PRN211_Block5\\Doctris\\wwwroot\\assets\\images\\language\\russian.png",
+      "PackagePath": "staticwebassets\\assets\\images\\language\\russian.png"
+    },
+    {
+      "Id": "D:\\FPT\\Chuyen Nganh Ky 5\\BLOCK 5 - PRN211\\PRN211_Block5\\Doctris\\wwwroot\\assets\\images\\layouts\\dark-dash-rtl.png",
+      "PackagePath": "staticwebassets\\assets\\images\\layouts\\dark-dash-rtl.png"
+    },
+    {
+      "Id": "D:\\FPT\\Chuyen Nganh Ky 5\\BLOCK 5 - PRN211\\PRN211_Block5\\Doctris\\wwwroot\\assets\\images\\layouts\\dark-dash.png",
+      "PackagePath": "staticwebassets\\assets\\images\\layouts\\dark-dash.png"
+    },
+    {
+      "Id": "D:\\FPT\\Chuyen Nganh Ky 5\\BLOCK 5 - PRN211\\PRN211_Block5\\Doctris\\wwwroot\\assets\\images\\layouts\\landing-dark-rtl.png",
+      "PackagePath": "staticwebassets\\assets\\images\\layouts\\landing-dark-rtl.png"
+    },
+    {
+      "Id": "D:\\FPT\\Chuyen Nganh Ky 5\\BLOCK 5 - PRN211\\PRN211_Block5\\Doctris\\wwwroot\\assets\\images\\layouts\\landing-dark.png",
+      "PackagePath": "staticwebassets\\assets\\images\\layouts\\landing-dark.png"
+    },
+    {
+      "Id": "D:\\FPT\\Chuyen Nganh Ky 5\\BLOCK 5 - PRN211\\PRN211_Block5\\Doctris\\wwwroot\\assets\\images\\layouts\\landing-light-rtl.png",
+      "PackagePath": "staticwebassets\\assets\\images\\layouts\\landing-light-rtl.png"
+    },
+    {
+      "Id": "D:\\FPT\\Chuyen Nganh Ky 5\\BLOCK 5 - PRN211\\PRN211_Block5\\Doctris\\wwwroot\\assets\\images\\layouts\\landing-light.png",
+      "PackagePath": "staticwebassets\\assets\\images\\layouts\\landing-light.png"
+    },
+    {
+      "Id": "D:\\FPT\\Chuyen Nganh Ky 5\\BLOCK 5 - PRN211\\PRN211_Block5\\Doctris\\wwwroot\\assets\\images\\layouts\\light-dash-rtl.png",
+      "PackagePath": "staticwebassets\\assets\\images\\layouts\\light-dash-rtl.png"
+    },
+    {
+      "Id": "D:\\FPT\\Chuyen Nganh Ky 5\\BLOCK 5 - PRN211\\PRN211_Block5\\Doctris\\wwwroot\\assets\\images\\layouts\\light-dash.png",
+      "PackagePath": "staticwebassets\\assets\\images\\layouts\\light-dash.png"
+    },
+    {
+      "Id": "D:\\FPT\\Chuyen Nganh Ky 5\\BLOCK 5 - PRN211\\PRN211_Block5\\Doctris\\wwwroot\\assets\\images\\logo-dark.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logo-dark.png"
+    },
+    {
+      "Id": "D:\\FPT\\Chuyen Nganh Ky 5\\BLOCK 5 - PRN211\\PRN211_Block5\\Doctris\\wwwroot\\assets\\images\\logo-icon.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logo-icon.png"
+    },
+    {
+      "Id": "D:\\FPT\\Chuyen Nganh Ky 5\\BLOCK 5 - PRN211\\PRN211_Block5\\Doctris\\wwwroot\\assets\\images\\logo-light.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logo-light.png"
+    },
+    {
+      "Id": "D:\\FPT\\Chuyen Nganh Ky 5\\BLOCK 5 - PRN211\\PRN211_Block5\\Doctris\\wwwroot\\assets\\images\\payment\\american.png",
+      "PackagePath": "staticwebassets\\assets\\images\\payment\\american.png"
+    },
+    {
+      "Id": "D:\\FPT\\Chuyen Nganh Ky 5\\BLOCK 5 - PRN211\\PRN211_Block5\\Doctris\\wwwroot\\assets\\images\\payment\\discover.png",
+      "PackagePath": "staticwebassets\\assets\\images\\payment\\discover.png"
+    },
+    {
+      "Id": "D:\\FPT\\Chuyen Nganh Ky 5\\BLOCK 5 - PRN211\\PRN211_Block5\\Doctris\\wwwroot\\assets\\images\\payment\\mastercard.png",
+      "PackagePath": "staticwebassets\\assets\\images\\payment\\mastercard.png"
+    },
+    {
+      "Id": "D:\\FPT\\Chuyen Nganh Ky 5\\BLOCK 5 - PRN211\\PRN211_Block5\\Doctris\\wwwroot\\assets\\images\\payment\\rupay.png",
+      "PackagePath": "staticwebassets\\assets\\images\\payment\\rupay.png"
+    },
+    {
+      "Id": "D:\\FPT\\Chuyen Nganh Ky 5\\BLOCK 5 - PRN211\\PRN211_Block5\\Doctris\\wwwroot\\assets\\images\\pharmacy\\cancer.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\pharmacy\\cancer.jpg"
+    },
+    {
+      "Id": "D:\\FPT\\Chuyen Nganh Ky 5\\BLOCK 5 - PRN211\\PRN211_Block5\\Doctris\\wwwroot\\assets\\images\\pharmacy\\cough.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\pharmacy\\cough.jpg"
+    },
+    {
+      "Id": "D:\\FPT\\Chuyen Nganh Ky 5\\BLOCK 5 - PRN211\\PRN211_Block5\\Doctris\\wwwroot\\assets\\images\\pharmacy\\cta.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\pharmacy\\cta.jpg"
+    },
+    {
+      "Id": "D:\\FPT\\Chuyen Nganh Ky 5\\BLOCK 5 - PRN211\\PRN211_Block5\\Doctris\\wwwroot\\assets\\images\\pharmacy\\delivery.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\pharmacy\\delivery.jpg"
+    },
+    {
+      "Id": "D:\\FPT\\Chuyen Nganh Ky 5\\BLOCK 5 - PRN211\\PRN211_Block5\\Doctris\\wwwroot\\assets\\images\\pharmacy\\diabetes.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\pharmacy\\diabetes.jpg"
+    },
+    {
+      "Id": "D:\\FPT\\Chuyen Nganh Ky 5\\BLOCK 5 - PRN211\\PRN211_Block5\\Doctris\\wwwroot\\assets\\images\\pharmacy\\doctor.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\pharmacy\\doctor.jpg"
+    },
+    {
+      "Id": "D:\\FPT\\Chuyen Nganh Ky 5\\BLOCK 5 - PRN211\\PRN211_Block5\\Doctris\\wwwroot\\assets\\images\\pharmacy\\download.png",
+      "PackagePath": "staticwebassets\\assets\\images\\pharmacy\\download.png"
+    },
+    {
+      "Id": "D:\\FPT\\Chuyen Nganh Ky 5\\BLOCK 5 - PRN211\\PRN211_Block5\\Doctris\\wwwroot\\assets\\images\\pharmacy\\heart.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\pharmacy\\heart.jpg"
+    },
+    {
+      "Id": "D:\\FPT\\Chuyen Nganh Ky 5\\BLOCK 5 - PRN211\\PRN211_Block5\\Doctris\\wwwroot\\assets\\images\\pharmacy\\pain.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\pharmacy\\pain.jpg"
+    },
+    {
+      "Id": "D:\\FPT\\Chuyen Nganh Ky 5\\BLOCK 5 - PRN211\\PRN211_Block5\\Doctris\\wwwroot\\assets\\images\\pharmacy\\sexual.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\pharmacy\\sexual.jpg"
+    },
+    {
+      "Id": "D:\\FPT\\Chuyen Nganh Ky 5\\BLOCK 5 - PRN211\\PRN211_Block5\\Doctris\\wwwroot\\assets\\images\\pharmacy\\shop\\01.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\pharmacy\\shop\\01.jpg"
+    },
+    {
+      "Id": "D:\\FPT\\Chuyen Nganh Ky 5\\BLOCK 5 - PRN211\\PRN211_Block5\\Doctris\\wwwroot\\assets\\images\\pharmacy\\shop\\02.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\pharmacy\\shop\\02.jpg"
+    },
+    {
+      "Id": "D:\\FPT\\Chuyen Nganh Ky 5\\BLOCK 5 - PRN211\\PRN211_Block5\\Doctris\\wwwroot\\assets\\images\\pharmacy\\shop\\03.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\pharmacy\\shop\\03.jpg"
+    },
+    {
+      "Id": "D:\\FPT\\Chuyen Nganh Ky 5\\BLOCK 5 - PRN211\\PRN211_Block5\\Doctris\\wwwroot\\assets\\images\\pharmacy\\shop\\04.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\pharmacy\\shop\\04.jpg"
+    },
+    {
+      "Id": "D:\\FPT\\Chuyen Nganh Ky 5\\BLOCK 5 - PRN211\\PRN211_Block5\\Doctris\\wwwroot\\assets\\images\\pharmacy\\shop\\ashwagandha.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\pharmacy\\shop\\ashwagandha.jpg"
+    },
+    {
+      "Id": "D:\\FPT\\Chuyen Nganh Ky 5\\BLOCK 5 - PRN211\\PRN211_Block5\\Doctris\\wwwroot\\assets\\images\\pharmacy\\shop\\beby-products.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\pharmacy\\shop\\beby-products.jpg"
+    },
+    {
+      "Id": "D:\\FPT\\Chuyen Nganh Ky 5\\BLOCK 5 - PRN211\\PRN211_Block5\\Doctris\\wwwroot\\assets\\images\\pharmacy\\shop\\diabend.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\pharmacy\\shop\\diabend.jpg"
+    },
+    {
+      "Id": "D:\\FPT\\Chuyen Nganh Ky 5\\BLOCK 5 - PRN211\\PRN211_Block5\\Doctris\\wwwroot\\assets\\images\\pharmacy\\shop\\facewash.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\pharmacy\\shop\\facewash.jpg"
+    },
+    {
+      "Id": "D:\\FPT\\Chuyen Nganh Ky 5\\BLOCK 5 - PRN211\\PRN211_Block5\\Doctris\\wwwroot\\assets\\images\\pharmacy\\shop\\handwash.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\pharmacy\\shop\\handwash.jpg"
+    },
+    {
+      "Id": "D:\\FPT\\Chuyen Nganh Ky 5\\BLOCK 5 - PRN211\\PRN211_Block5\\Doctris\\wwwroot\\assets\\images\\pharmacy\\shop\\herbal-care.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\pharmacy\\shop\\herbal-care.jpg"
+    },
+    {
+      "Id": "D:\\FPT\\Chuyen Nganh Ky 5\\BLOCK 5 - PRN211\\PRN211_Block5\\Doctris\\wwwroot\\assets\\images\\pharmacy\\shop\\kidney-tray.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\pharmacy\\shop\\kidney-tray.jpg"
+    },
+    {
+      "Id": "D:\\FPT\\Chuyen Nganh Ky 5\\BLOCK 5 - PRN211\\PRN211_Block5\\Doctris\\wwwroot\\assets\\images\\pharmacy\\shop\\masks.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\pharmacy\\shop\\masks.jpg"
+    },
+    {
+      "Id": "D:\\FPT\\Chuyen Nganh Ky 5\\BLOCK 5 - PRN211\\PRN211_Block5\\Doctris\\wwwroot\\assets\\images\\pharmacy\\shop\\medical-equptment.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\pharmacy\\shop\\medical-equptment.jpg"
+    },
+    {
+      "Id": "D:\\FPT\\Chuyen Nganh Ky 5\\BLOCK 5 - PRN211\\PRN211_Block5\\Doctris\\wwwroot\\assets\\images\\pharmacy\\shop\\medicine.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\pharmacy\\shop\\medicine.jpg"
+    },
+    {
+      "Id": "D:\\FPT\\Chuyen Nganh Ky 5\\BLOCK 5 - PRN211\\PRN211_Block5\\Doctris\\wwwroot\\assets\\images\\pharmacy\\shop\\medigrip.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\pharmacy\\shop\\medigrip.jpg"
+    },
+    {
+      "Id": "D:\\FPT\\Chuyen Nganh Ky 5\\BLOCK 5 - PRN211\\PRN211_Block5\\Doctris\\wwwroot\\assets\\images\\pharmacy\\shop\\nicotex.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\pharmacy\\shop\\nicotex.jpg"
+    },
+    {
+      "Id": "D:\\FPT\\Chuyen Nganh Ky 5\\BLOCK 5 - PRN211\\PRN211_Block5\\Doctris\\wwwroot\\assets\\images\\pharmacy\\shop\\praganews.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\pharmacy\\shop\\praganews.jpg"
+    },
+    {
+      "Id": "D:\\FPT\\Chuyen Nganh Ky 5\\BLOCK 5 - PRN211\\PRN211_Block5\\Doctris\\wwwroot\\assets\\images\\pharmacy\\shop\\pulse-oximeter.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\pharmacy\\shop\\pulse-oximeter.jpg"
+    },
+    {
+      "Id": "D:\\FPT\\Chuyen Nganh Ky 5\\BLOCK 5 - PRN211\\PRN211_Block5\\Doctris\\wwwroot\\assets\\images\\pharmacy\\shop\\sanitizer.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\pharmacy\\shop\\sanitizer.jpg"
+    },
+    {
+      "Id": "D:\\FPT\\Chuyen Nganh Ky 5\\BLOCK 5 - PRN211\\PRN211_Block5\\Doctris\\wwwroot\\assets\\images\\pharmacy\\shop\\smoking-habit.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\pharmacy\\shop\\smoking-habit.jpg"
+    },
+    {
+      "Id": "D:\\FPT\\Chuyen Nganh Ky 5\\BLOCK 5 - PRN211\\PRN211_Block5\\Doctris\\wwwroot\\assets\\images\\pharmacy\\shop\\stethoscope.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\pharmacy\\shop\\stethoscope.jpg"
+    },
+    {
+      "Id": "D:\\FPT\\Chuyen Nganh Ky 5\\BLOCK 5 - PRN211\\PRN211_Block5\\Doctris\\wwwroot\\assets\\images\\pharmacy\\shop\\thermometer.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\pharmacy\\shop\\thermometer.jpg"
+    },
+    {
+      "Id": "D:\\FPT\\Chuyen Nganh Ky 5\\BLOCK 5 - PRN211\\PRN211_Block5\\Doctris\\wwwroot\\assets\\images\\pharmacy\\skin.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\pharmacy\\skin.jpg"
+    },
+    {
+      "Id": "D:\\FPT\\Chuyen Nganh Ky 5\\BLOCK 5 - PRN211\\PRN211_Block5\\Doctris\\wwwroot\\assets\\images\\pharmacy\\weight.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\pharmacy\\weight.jpg"
+    },
+    {
+      "Id": "D:\\FPT\\Chuyen Nganh Ky 5\\BLOCK 5 - PRN211\\PRN211_Block5\\Doctris\\wwwroot\\assets\\images\\svg\\error.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\svg\\error.svg"
+    },
+    {
+      "Id": "D:\\FPT\\Chuyen Nganh Ky 5\\BLOCK 5 - PRN211\\PRN211_Block5\\Doctris\\wwwroot\\assets\\images\\svg\\vaccine-development-amico.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\svg\\vaccine-development-amico.svg"
+    },
+    {
+      "Id": "D:\\FPT\\Chuyen Nganh Ky 5\\BLOCK 5 - PRN211\\PRN211_Block5\\Doctris\\wwwroot\\assets\\js\\apexcharts.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\apexcharts.min.js"
+    },
+    {
+      "Id": "D:\\FPT\\Chuyen Nganh Ky 5\\BLOCK 5 - PRN211\\PRN211_Block5\\Doctris\\wwwroot\\assets\\js\\app.js",
+      "PackagePath": "staticwebassets\\assets\\js\\app.js"
+    },
+    {
+      "Id": "D:\\FPT\\Chuyen Nganh Ky 5\\BLOCK 5 - PRN211\\PRN211_Block5\\Doctris\\wwwroot\\assets\\js\\areachart.init.js",
+      "PackagePath": "staticwebassets\\assets\\js\\areachart.init.js"
+    },
+    {
+      "Id": "D:\\FPT\\Chuyen Nganh Ky 5\\BLOCK 5 - PRN211\\PRN211_Block5\\Doctris\\wwwroot\\assets\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\FPT\\Chuyen Nganh Ky 5\\BLOCK 5 - PRN211\\PRN211_Block5\\Doctris\\wwwroot\\assets\\js\\ckeditor.js",
+      "PackagePath": "staticwebassets\\assets\\js\\ckeditor.js"
+    },
+    {
+      "Id": "D:\\FPT\\Chuyen Nganh Ky 5\\BLOCK 5 - PRN211\\PRN211_Block5\\Doctris\\wwwroot\\assets\\js\\columnchart.init.js",
+      "PackagePath": "staticwebassets\\assets\\js\\columnchart.init.js"
+    },
+    {
+      "Id": "D:\\FPT\\Chuyen Nganh Ky 5\\BLOCK 5 - PRN211\\PRN211_Block5\\Doctris\\wwwroot\\assets\\js\\contact.js",
+      "PackagePath": "staticwebassets\\assets\\js\\contact.js"
+    },
+    {
+      "Id": "D:\\FPT\\Chuyen Nganh Ky 5\\BLOCK 5 - PRN211\\PRN211_Block5\\Doctris\\wwwroot\\assets\\js\\counter.init.js",
+      "PackagePath": "staticwebassets\\assets\\js\\counter.init.js"
+    },
+    {
+      "Id": "D:\\FPT\\Chuyen Nganh Ky 5\\BLOCK 5 - PRN211\\PRN211_Block5\\Doctris\\wwwroot\\assets\\js\\easy_background.js",
+      "PackagePath": "staticwebassets\\assets\\js\\easy_background.js"
+    },
+    {
+      "Id": "D:\\FPT\\Chuyen Nganh Ky 5\\BLOCK 5 - PRN211\\PRN211_Block5\\Doctris\\wwwroot\\assets\\js\\feather.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\feather.min.js"
+    },
+    {
+      "Id": "D:\\FPT\\Chuyen Nganh Ky 5\\BLOCK 5 - PRN211\\PRN211_Block5\\Doctris\\wwwroot\\assets\\js\\flatpickr.init.js",
+      "PackagePath": "staticwebassets\\assets\\js\\flatpickr.init.js"
+    },
+    {
+      "Id": "D:\\FPT\\Chuyen Nganh Ky 5\\BLOCK 5 - PRN211\\PRN211_Block5\\Doctris\\wwwroot\\assets\\js\\flatpickr.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\flatpickr.min.js"
+    },
+    {
+      "Id": "D:\\FPT\\Chuyen Nganh Ky 5\\BLOCK 5 - PRN211\\PRN211_Block5\\Doctris\\wwwroot\\assets\\js\\fullcalendar.init.js",
+      "PackagePath": "staticwebassets\\assets\\js\\fullcalendar.init.js"
+    },
+    {
+      "Id": "D:\\FPT\\Chuyen Nganh Ky 5\\BLOCK 5 - PRN211\\PRN211_Block5\\Doctris\\wwwroot\\assets\\js\\fullcalendar.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\fullcalendar.min.js"
+    },
+    {
+      "Id": "D:\\FPT\\Chuyen Nganh Ky 5\\BLOCK 5 - PRN211\\PRN211_Block5\\Doctris\\wwwroot\\assets\\js\\jquery.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\FPT\\Chuyen Nganh Ky 5\\BLOCK 5 - PRN211\\PRN211_Block5\\Doctris\\wwwroot\\assets\\js\\jquery.timepicker.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery.timepicker.min.js"
+    },
+    {
+      "Id": "D:\\FPT\\Chuyen Nganh Ky 5\\BLOCK 5 - PRN211\\PRN211_Block5\\Doctris\\wwwroot\\assets\\js\\radialchartinit.js",
+      "PackagePath": "staticwebassets\\assets\\js\\radialchartinit.js"
+    },
+    {
+      "Id": "D:\\FPT\\Chuyen Nganh Ky 5\\BLOCK 5 - PRN211\\PRN211_Block5\\Doctris\\wwwroot\\assets\\js\\select2.init.js",
+      "PackagePath": "staticwebassets\\assets\\js\\select2.init.js"
+    },
+    {
+      "Id": "D:\\FPT\\Chuyen Nganh Ky 5\\BLOCK 5 - PRN211\\PRN211_Block5\\Doctris\\wwwroot\\assets\\js\\select2.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\select2.min.js"
+    },
+    {
+      "Id": "D:\\FPT\\Chuyen Nganh Ky 5\\BLOCK 5 - PRN211\\PRN211_Block5\\Doctris\\wwwroot\\assets\\js\\simplebar.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\simplebar.min.js"
+    },
+    {
+      "Id": "D:\\FPT\\Chuyen Nganh Ky 5\\BLOCK 5 - PRN211\\PRN211_Block5\\Doctris\\wwwroot\\assets\\js\\slick.init.js",
+      "PackagePath": "staticwebassets\\assets\\js\\slick.init.js"
+    },
+    {
+      "Id": "D:\\FPT\\Chuyen Nganh Ky 5\\BLOCK 5 - PRN211\\PRN211_Block5\\Doctris\\wwwroot\\assets\\js\\slick.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\slick.min.js"
+    },
+    {
+      "Id": "D:\\FPT\\Chuyen Nganh Ky 5\\BLOCK 5 - PRN211\\PRN211_Block5\\Doctris\\wwwroot\\assets\\js\\timepicker.init.js",
+      "PackagePath": "staticwebassets\\assets\\js\\timepicker.init.js"
+    },
+    {
+      "Id": "D:\\FPT\\Chuyen Nganh Ky 5\\BLOCK 5 - PRN211\\PRN211_Block5\\Doctris\\wwwroot\\assets\\js\\tiny-slider-init.js",
+      "PackagePath": "staticwebassets\\assets\\js\\tiny-slider-init.js"
+    },
+    {
+      "Id": "D:\\FPT\\Chuyen Nganh Ky 5\\BLOCK 5 - PRN211\\PRN211_Block5\\Doctris\\wwwroot\\assets\\js\\tiny-slider.js",
+      "PackagePath": "staticwebassets\\assets\\js\\tiny-slider.js"
+    },
+    {
+      "Id": "D:\\FPT\\Chuyen Nganh Ky 5\\BLOCK 5 - PRN211\\PRN211_Block5\\Doctris\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\FPT\\Chuyen Nganh Ky 5\\BLOCK 5 - PRN211\\PRN211_Block5\\Doctris\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\FPT\\Chuyen Nganh Ky 5\\BLOCK 5 - PRN211\\PRN211_Block5\\Doctris\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\FPT\\Chuyen Nganh Ky 5\\BLOCK 5 - PRN211\\PRN211_Block5\\Doctris\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\FPT\\Chuyen Nganh Ky 5\\BLOCK 5 - PRN211\\PRN211_Block5\\Doctris\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\FPT\\Chuyen Nganh Ky 5\\BLOCK 5 - PRN211\\PRN211_Block5\\Doctris\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\FPT\\Chuyen Nganh Ky 5\\BLOCK 5 - PRN211\\PRN211_Block5\\Doctris\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\FPT\\Chuyen Nganh Ky 5\\BLOCK 5 - PRN211\\PRN211_Block5\\Doctris\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\FPT\\Chuyen Nganh Ky 5\\BLOCK 5 - PRN211\\PRN211_Block5\\Doctris\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\FPT\\Chuyen Nganh Ky 5\\BLOCK 5 - PRN211\\PRN211_Block5\\Doctris\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\FPT\\Chuyen Nganh Ky 5\\BLOCK 5 - PRN211\\PRN211_Block5\\Doctris\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\FPT\\Chuyen Nganh Ky 5\\BLOCK 5 - PRN211\\PRN211_Block5\\Doctris\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\FPT\\Chuyen Nganh Ky 5\\BLOCK 5 - PRN211\\PRN211_Block5\\Doctris\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\FPT\\Chuyen Nganh Ky 5\\BLOCK 5 - PRN211\\PRN211_Block5\\Doctris\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\FPT\\Chuyen Nganh Ky 5\\BLOCK 5 - PRN211\\PRN211_Block5\\Doctris\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\FPT\\Chuyen Nganh Ky 5\\BLOCK 5 - PRN211\\PRN211_Block5\\Doctris\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\FPT\\Chuyen Nganh Ky 5\\BLOCK 5 - PRN211\\PRN211_Block5\\Doctris\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\FPT\\Chuyen Nganh Ky 5\\BLOCK 5 - PRN211\\PRN211_Block5\\Doctris\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\FPT\\Chuyen Nganh Ky 5\\BLOCK 5 - PRN211\\PRN211_Block5\\Doctris\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\FPT\\Chuyen Nganh Ky 5\\BLOCK 5 - PRN211\\PRN211_Block5\\Doctris\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\FPT\\Chuyen Nganh Ky 5\\BLOCK 5 - PRN211\\PRN211_Block5\\Doctris\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\FPT\\Chuyen Nganh Ky 5\\BLOCK 5 - PRN211\\PRN211_Block5\\Doctris\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\FPT\\Chuyen Nganh Ky 5\\BLOCK 5 - PRN211\\PRN211_Block5\\Doctris\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\FPT\\Chuyen Nganh Ky 5\\BLOCK 5 - PRN211\\PRN211_Block5\\Doctris\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\FPT\\Chuyen Nganh Ky 5\\BLOCK 5 - PRN211\\PRN211_Block5\\Doctris\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\FPT\\Chuyen Nganh Ky 5\\BLOCK 5 - PRN211\\PRN211_Block5\\Doctris\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\FPT\\Chuyen Nganh Ky 5\\BLOCK 5 - PRN211\\PRN211_Block5\\Doctris\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\FPT\\Chuyen Nganh Ky 5\\BLOCK 5 - PRN211\\PRN211_Block5\\Doctris\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\FPT\\Chuyen Nganh Ky 5\\BLOCK 5 - PRN211\\PRN211_Block5\\Doctris\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\FPT\\Chuyen Nganh Ky 5\\BLOCK 5 - PRN211\\PRN211_Block5\\Doctris\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\FPT\\Chuyen Nganh Ky 5\\BLOCK 5 - PRN211\\PRN211_Block5\\Doctris\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\FPT\\Chuyen Nganh Ky 5\\BLOCK 5 - PRN211\\PRN211_Block5\\Doctris\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\FPT\\Chuyen Nganh Ky 5\\BLOCK 5 - PRN211\\PRN211_Block5\\Doctris\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\FPT\\Chuyen Nganh Ky 5\\BLOCK 5 - PRN211\\PRN211_Block5\\Doctris\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\FPT\\Chuyen Nganh Ky 5\\BLOCK 5 - PRN211\\PRN211_Block5\\Doctris\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\FPT\\Chuyen Nganh Ky 5\\BLOCK 5 - PRN211\\PRN211_Block5\\Doctris\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\FPT\\Chuyen Nganh Ky 5\\BLOCK 5 - PRN211\\PRN211_Block5\\Doctris\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\FPT\\Chuyen Nganh Ky 5\\BLOCK 5 - PRN211\\PRN211_Block5\\Doctris\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\FPT\\Chuyen Nganh Ky 5\\BLOCK 5 - PRN211\\PRN211_Block5\\Doctris\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\FPT\\Chuyen Nganh Ky 5\\BLOCK 5 - PRN211\\PRN211_Block5\\Doctris\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\FPT\\Chuyen Nganh Ky 5\\BLOCK 5 - PRN211\\PRN211_Block5\\Doctris\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\FPT\\Chuyen Nganh Ky 5\\BLOCK 5 - PRN211\\PRN211_Block5\\Doctris\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\FPT\\Chuyen Nganh Ky 5\\BLOCK 5 - PRN211\\PRN211_Block5\\Doctris\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\FPT\\Chuyen Nganh Ky 5\\BLOCK 5 - PRN211\\PRN211_Block5\\Doctris\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\FPT\\Chuyen Nganh Ky 5\\BLOCK 5 - PRN211\\PRN211_Block5\\Doctris\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\FPT\\Chuyen Nganh Ky 5\\BLOCK 5 - PRN211\\PRN211_Block5\\Doctris\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\FPT\\Chuyen Nganh Ky 5\\BLOCK 5 - PRN211\\PRN211_Block5\\Doctris\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\FPT\\Chuyen Nganh Ky 5\\BLOCK 5 - PRN211\\PRN211_Block5\\Doctris\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\FPT\\Chuyen Nganh Ky 5\\BLOCK 5 - PRN211\\PRN211_Block5\\Doctris\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\FPT\\Chuyen Nganh Ky 5\\BLOCK 5 - PRN211\\PRN211_Block5\\Doctris\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\FPT\\Chuyen Nganh Ky 5\\BLOCK 5 - PRN211\\PRN211_Block5\\Doctris\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\FPT\\Chuyen Nganh Ky 5\\BLOCK 5 - PRN211\\PRN211_Block5\\Doctris\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\FPT\\Chuyen Nganh Ky 5\\BLOCK 5 - PRN211\\PRN211_Block5\\Doctris\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\FPT\\Chuyen Nganh Ky 5\\BLOCK 5 - PRN211\\PRN211_Block5\\Doctris\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\FPT\\Chuyen Nganh Ky 5\\BLOCK 5 - PRN211\\PRN211_Block5\\Doctris\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\FPT\\Chuyen Nganh Ky 5\\BLOCK 5 - PRN211\\PRN211_Block5\\Doctris\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\FPT\\Chuyen Nganh Ky 5\\BLOCK 5 - PRN211\\PRN211_Block5\\Doctris\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\FPT\\Chuyen Nganh Ky 5\\BLOCK 5 - PRN211\\PRN211_Block5\\Doctris\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\FPT\\Chuyen Nganh Ky 5\\BLOCK 5 - PRN211\\PRN211_Block5\\Doctris\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\FPT\\Chuyen Nganh Ky 5\\BLOCK 5 - PRN211\\PRN211_Block5\\Doctris\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.Doctris.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.Doctris.props",
+      "PackagePath": "build\\Doctris.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.Doctris.props",
+      "PackagePath": "buildMultiTargeting\\Doctris.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.Doctris.props",
+      "PackagePath": "buildTransitive\\Doctris.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
